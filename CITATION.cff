@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it using these metadata."
+title: "CORE Framework"
+authors:
+  - family-names: Nakatsugawa
+    given-names: Masahiro
+    orcid: "https://orcid.org/0009-0000-3224-0103"
+abstract: >-
+  A design-thinking compass built on four questions (Context, Object, Reaction, Evolution),
+  with the companion Seven Ark checklist of seven practical perspectives for validating and
+  refining architecture, design and strategy.
+repository-code: "https://github.com/masahiroid/core-framework"
+license: CC-BY-4.0
+keywords:
+  - design-thinking
+  - architecture
+  - strategy
+  - checklist
+  - framework

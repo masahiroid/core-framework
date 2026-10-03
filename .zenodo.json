@@ -1,0 +1,27 @@
+{
+  "title": "CORE Framework",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "A design-thinking compass built on four questions (Context, Object, Reaction, Evolution), with the companion Seven Ark checklist of seven practical perspectives for validating and refining architecture, design and strategy.",
+  "creators": [
+    {
+      "name": "Nakatsugawa, Masahiro",
+      "orcid": "0009-0000-3224-0103"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "design-thinking",
+    "architecture",
+    "strategy",
+    "checklist",
+    "framework"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/masahiroid/core-framework",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
