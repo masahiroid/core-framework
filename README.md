@@ -1,5 +1,7 @@
 # CORE Framework
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23122893.svg)](https://doi.org/10.5281/zenodo.23122893)
+
 The **CORE Framework** is a design thinking compass based on four powerful questions: Context, Object, Reaction, and Evolution.  
 It helps teams uncover weak points in architecture, design, and strategy by asking the right questions at the right time.
 

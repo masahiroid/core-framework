@@ -11,6 +11,9 @@ abstract: >-
   refining architecture, design and strategy.
 repository-code: "https://github.com/masahiroid/core-framework"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23122893
+version: "1.0.0"
+date-released: "2026-10-04"
 keywords:
   - design-thinking
   - architecture
